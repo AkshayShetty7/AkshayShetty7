@@ -24,7 +24,6 @@
 
 ---
 
-### 🛠️ Tools & Technologies
 ### 🛠️ Languages and Tools
 
 <p align="left">
